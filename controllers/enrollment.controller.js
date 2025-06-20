@@ -1,6 +1,6 @@
 const db = require("../db/db");
 
-exports.createEnrollment = async (userId, courseId) => {
+exports.createEnrollment = async (req, res) => {
   //Nhan du lieu tu request body
   const { user_id, course_id } = req.body;
 
