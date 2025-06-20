@@ -12,8 +12,8 @@
 
 ## Tiến độ
 - [x] Buổi 1: Quản lý khóa học & đăng ký khóa học
-- [x ] Buổi 2: Xác thực
-- [ ] Buổi 3: Phân quyền
+- [x] Buổi 2: Xác thực
+- [x] Buổi 3: Phân quyền
 - [ ] Buổi 4: Hồ sơ người dùng
 - [ ] Buổi 5: Thống kê
 - [ ] Buổi 6: Bảo mật & xử lý lỗi
